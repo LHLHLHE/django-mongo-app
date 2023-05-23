@@ -1,1 +1,1 @@
-# django-mongo-app
+# fastapi-mongo-app
